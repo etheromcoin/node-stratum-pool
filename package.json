@@ -14,9 +14,9 @@
         "yespower",
         "lyra2re2"
     ],
-    "homepage": "https://github.com/blockinator/node-stratum-pool",
+    "homepage": "https://github.com/etheromcoin/node-stratum-pool"
     "bugs": {
-        "url": "https://github.com/blockinator/node-stratum-pool/issues"
+        "url": "https://github.com/etheromcoin/node-stratum-pool/issues"
     },
     "license": "GPL-2.0",
     "author": "Matthew Little",
@@ -27,7 +27,7 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/blockinator/node-stratum-pool.git"
+        "url": "https://github.com/etheromcoin/node-stratum-pool.git"
     },
     "dependencies": {
         "async": "^3.2.0",
@@ -35,7 +35,7 @@
         "bchaddrjs": "^0.4.9",
         "bignum": "^0.13.1",
         "bitcoinjs-lib": "^5.1.10",
-        "multi-hashing": "https://github.com/blockinator/node-multi-hashing.git"
+        "multi-hashing": "https://github.com/etheromcoin/node-multi-hashing.git"
     },
     "engines": {
         "node": ">=8.11"
