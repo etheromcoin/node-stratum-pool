@@ -1,6 +1,6 @@
 {
     "name": "stratum-pool",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "description": "High performance Stratum poolserver in Node.js",
     "keywords": [
         "stratum",
@@ -14,7 +14,7 @@
         "yespower",
         "lyra2re2"
     ],
-    "homepage": "https://github.com/etheromcoin/node-stratum-pool"
+    "homepage": "https://github.com/etheromcoin/node-stratum-pool",
     "bugs": {
         "url": "https://github.com/etheromcoin/node-stratum-pool/issues"
     },
